@@ -7,7 +7,7 @@
 ***_<p align="center">![](https://komarev.com/ghpvc/?username=ManicCentipede&style=plastic&color=C290F7&abbreviated=true&label=❀+Clematis+gathered+❀&?format=long&?labelColor=C290F7)_***
 
 
-***<p align="center">[__*Guns__ ](https://guns.lol/maniccentipede) ⠀ ⠀  [__*Strawpage__](https://star-enthusiast.straw.page) ⠀ ⠀  [__*Atabook__](https://maniccentipede.atabook.org)***
+***<p align="center">[__*Guns__ ](https://guns.lol/maniccentipede) ⠀ ⠀  [__*Strawpage__](https://maniccentipede.straw.page) ⠀ ⠀  [__*Atabook__](https://maniccentipede.atabook.org)***
 
 
 ***<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=4&color=C290F7&center=true&width=700&lines=%22+𝘽𝙪𝙩+𝙄+𝔀𝓸𝓷'𝓽+𝘴𝘵𝘰𝘱+𝖚𝖓𝖙𝖎𝖑+𝕥𝕙𝕒𝕥+𝓰𝓲𝓻𝓵+𝐢𝐬+𝕞𝕚𝕟𝕖+!%22)](https://git.io/typing-svg)***
