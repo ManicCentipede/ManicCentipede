@@ -8,6 +8,18 @@
 
 ***_<p align="center">![](https://komarev.com/ghpvc/?username=ManicCentipede&style=plastic&color=C290F7&abbreviated=true&label=❀+Clematis+gathered+❀&?format=long&?labelColor=C290F7)_***
 
+<div align="center">
+
+<details>
+
+<summary>TRIGGER WARNINGS</summary>
+
+Eye strain and low contrast text on Strawpage !
+
+</details>
+
+</div>
+
 
 <p align="center">
   <a href="https://maniccentipede.atabook.org">
