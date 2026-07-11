@@ -14,7 +14,7 @@
 
 <summary>TRIGGER WARNINGS</summary>
 
-Eye strain and low contrast text on Strawpage !
+Eye strain and low contrast text on Strawpage ! ( I think ? )
 
 </details>
 
