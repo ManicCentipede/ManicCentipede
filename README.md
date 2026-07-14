@@ -1,7 +1,7 @@
 ***<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&color=DB5282&center=true&multiline=true&width=435&height=60&lines=%EC%88%A8%EC%9D%B4+%EC%B0%A8%EC%98%A4%EB%A5%BC+%EB%95%90+SOS+%2C+me!;%EB%8C%80%EC%8B%A0+%EC%88%A8+%EC%89%AC%EC%96%B4+%EC%A4%84%EA%B2%8C+%EC%B2%9C%EC%B2%9C%ED%9E%88+~+%E2%99%A1)](https://git.io/typing-svg)***
 
 <p align="center">
-  <a href="https://www.tumblr.com/mizisangels">
+  <a href="https://x.com/tsusealyangel?lang=en">
     <img src="https://i.ibb.co/ch92vwHp/image-2026-07-14-184056960.png"/>
   </a>
 
