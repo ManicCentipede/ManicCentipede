@@ -8,6 +8,8 @@
 
 $\color{#DB5282}\text{ @ Fictotype ; Sua , @ Sourcepartner ; Mizi}$
 
+$\color{#DB5282}\text{Doubles strictly DNI .}$
+
 $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 </details>
@@ -30,8 +32,32 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 <summary>$\color{#DB5282}\text{FAQs}$</summary>
 
-***<p align="center">[!["What's a Fictionkin"](https://img.shields.io/badge/Fictionkin%20Terminology-DC5182?style=for-the-badge)](https://github.com/ManicCentipede/Fictionkin-Terminology)***
+<p align="center"><div align="center">
 
+## $\color{#DB5282}\text{What's a Fictionkin / Fictotype ?}$
+
+$\color{#DB5282}\text{A fictionkin is someone who experiences an involuntary , deep psychological or spiritual identification as a fict. character or fict. species .}$
+$\color{#DB5282}\text{( Referred to as their fictotype ( or Kintype ) ) .}$
+
+$\color{#DB5282}\text{It's not a choice or a form of cosplay / roleplay ; it's an intrinsic part of how they experience their identity .}$
+
+$\color{#DB5282}\text{Referring to a fictionkin's identity as cosplay or roleplay is generally considered invalidating and offensive within the fictionkin community .}$
+
+## $\color{#DB5282}\text{What's a Source Partner ?}$
+
+$\color{#DB5282}\text{A source partner is a fictionkin's romantic partner from their source . In most cases , this refers to their fictotype's canon romantic partner .}$
+
+$\color{#DB5282}\text{Not every fictionkin has a source partner , and not everyone wishes to find or interact with theirs .}$
+
+$\color{#DB5282}\text{Please be respectful when discussing someone's source partner , as these relationships can be deeply personal and meaningful to them .}$
+
+## $\color{#DB5282}\text{What are Doubles ?}$
+
+$\color{#DB5282}\text{Doubles are two or more individuals within the community who share the exact same fictotype or identify as the same character .}$
+
+$\color{#DB5282}\text{Some fictionkins welcome doubles , while others feel uncomfortable or experience identity dysphoria around them .}$
+
+$\color{#DB5282}\text{It is common for fictionkins to state their "doubles boundaries" on their profiles , and it is important to respect them ( duh ) .}$***
 
 </details>
 
