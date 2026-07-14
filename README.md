@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.tumblr.com/mizisangels">
-    <img src="https://i.ibb.co/FbZJmrDt/image-2026-07-14-011433748.png"">
+    <img src="https://i.ibb.co/ch92vwHp/image-2026-07-14-184056960.png"/>
   </a>
 
 
