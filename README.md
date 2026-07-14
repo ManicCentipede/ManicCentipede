@@ -30,7 +30,7 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 <summary>$\color{#DB5282}\text{FAQs}$</summary>
 
-***<p align="center">[!["What's a Fictionkin"](https://img.shields.io/badge/What's%20%20a%20Fictionkin%20/%20Sourcepartner%20-DC5182?style=for-the-badge)](https://github.com/ManicCentipede/Fictionkin-Terminology)***
+***<p align="center">[!["What's a Fictionkin"](https://img.shields.io/badge/Fictionkin%20Terminology-DC5182?style=for-the-badge)](https://github.com/ManicCentipede/Fictionkin-Terminology)***
 
 
 </details>
