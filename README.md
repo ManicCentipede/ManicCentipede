@@ -57,7 +57,7 @@ $\color{#DB5282}\text{Doubles are two or more individuals within the community w
 
 $\color{#DB5282}\text{Some fictionkins welcome doubles , while others feel uncomfortable or experience identity dysphoria around them .}$
 
-$\color{#DB5282}\text{It is common for fictionkins to state their "doubles boundaries" on their profiles , and it is important to respect them ( duh ) .}$***
+$\color{#DB5282}\text{It is common for fictionkins to state their "doubles boundaries" on their profiles , and it is important to respect them ( duh ) .}$
 
 </details>
 
