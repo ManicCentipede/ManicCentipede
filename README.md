@@ -12,7 +12,7 @@ $\color{#DB5282}\text{Actively looking for source/canonmates . ( yearning for mi
 
 $\color{#DB5282}\text{W2I if unresponsive, im probably offtab or afk .}$
 
-$\color{#DB5282}\text{Doubles strictly DNI .}$
+$\color{#DB5282}\text{Doubles strictly DNI . I'm also uncomfortable with cosplayers of my fictotype(s) .}$
 
 $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
