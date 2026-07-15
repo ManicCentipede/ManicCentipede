@@ -12,6 +12,8 @@ $\color{#DB5282}\text{Doubles strictly DNI .}$
 
 $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
+$\color{#DB5282}\text{W2I if unresponsive, im probably offtab or afk .}$
+
 </details>
 
 </div>
