@@ -8,7 +8,7 @@
 
 $\color{#DB5282}\text{ @ Fictotype ; Sua , @ Sourcepartner ; Mizi}$
 
-$\color{#DB5282}\text{Actively looking for source/canonmates . ( yearning for mizi ‹/𝟹 )}$
+$\color{#DB5282}\text{Actively looking for ALNST source/canonmates . ( yearning for mizi ‹/𝟹 )}$
 
 $\color{#DB5282}\text{W2I if unresponsive, im probably offtab or afk .}$
 
@@ -54,6 +54,14 @@ $\color{#DB5282}\text{A source partner is a fictionkin's romantic partner from t
 $\color{#DB5282}\text{Not every fictionkin has a source partner , and not everyone wishes to find or interact with theirs .}$
 
 $\color{#DB5282}\text{Please be respectful when discussing someone's source partner , as these relationships can be deeply personal and meaningful to them .}$
+
+## $\color{#DB5282}\text{What are Sourcemates ?}$
+
+$\color{#DB5282}\text{Sourcemates are other fictionkins who share the same source as your fictotype ( such as the same game , show , book , or series ) .}$
+
+## $\color{#DB5282}\text{What are Canonmates ?}$
+
+$\color{#DB5282}\text{Canonmates are sourcemates who identify as coming from the same remembered source reality ( such as a specific AU , timeline , or past life ) .}$
 
 ## $\color{#DB5282}\text{What are Doubles ?}$
 
