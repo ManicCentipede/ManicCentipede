@@ -6,15 +6,9 @@
 
 <summary>$\color{#DB5282}\text{Notes}$</summary>
 
-$\color{#DB5282}\text{ @ Fictotype ; Sua , @ Sourcepartner ; Mizi}$
+$\color{#DB5282}\text{If I'm ever unresponsive , W2I ; I'm probably off-tab or AFK .}$
 
-$\color{#DB5282}\text{Actively looking for ALNST source/canonmates . ( yearning for mizi ‹/𝟹 )}$
-
-$\color{#DB5282}\text{W2I if unresponsive, im probably offtab or afk .}$
-
-$\color{#DB5282}\text{Doubles strictly DNI . I'm also uncomfortable with cosplayers of my fictotype(s) .}$
-
-$\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
+$\color{#DB5282}\text{I curate my space unapologetically and block freely for my own comfort .}$
 
 </details>
 
@@ -34,42 +28,13 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 <details>
 
-<summary>$\color{#DB5282}\text{FAQs}$</summary>
+<summary>$\color{#DB5282}\text{About}$</summary>
 
-<p align="center"><div align="center">
+$\color{#DB5282}\text{Sua Fictionkin (pancharakin , permashifted , primary) .}$
 
-## $\color{#DB5282}\text{What's a Fictionkin / Fictotype ?}$
+$\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplayers of my fictotype(s) .}$
 
-$\color{#DB5282}\text{A fictionkin is someone who experiences an involuntary , deep psychological or spiritual identification as a fict. character or fict. species .}$
-$\color{#DB5282}\text{( Referred to as their fictotype ( or Kintype ) ) .}$
-
-$\color{#DB5282}\text{It's not a choice or a form of cosplay / roleplay ; it's an intrinsic part of how they experience their identity .}$
-
-$\color{#DB5282}\text{Referring to a fictionkin's identity as cosplay or roleplay is generally considered invalidating and offensive within the fictionkin community .}$
-
-## $\color{#DB5282}\text{What's a Source Partner ?}$
-
-$\color{#DB5282}\text{A source partner is a fictionkin's romantic partner from their source . In most cases , this refers to their fictotype's canon romantic partner .}$
-
-$\color{#DB5282}\text{Not every fictionkin has a source partner , and not everyone wishes to find or interact with theirs .}$
-
-$\color{#DB5282}\text{Please be respectful when discussing someone's source partner , as these relationships can be deeply personal and meaningful to them .}$
-
-## $\color{#DB5282}\text{What are Sourcemates ?}$
-
-$\color{#DB5282}\text{Sourcemates are other fictionkins who share the same source as your fictotype ( such as the same game , show , book , or series ) .}$
-
-## $\color{#DB5282}\text{What are Canonmates ?}$
-
-$\color{#DB5282}\text{Canonmates are sourcemates who identify as coming from the same remembered source reality ( such as a specific AU , timeline , or past life ) .}$
-
-## $\color{#DB5282}\text{What are Doubles ?}$
-
-$\color{#DB5282}\text{Doubles are two or more individuals within the community who share the exact same fictotype or identify as the same character .}$
-
-$\color{#DB5282}\text{Some fictionkins welcome doubles , while others feel uncomfortable or experience identity dysphoria around them .}$
-
-$\color{#DB5282}\text{It is common for fictionkins to state their "doubles boundaries" on their profiles , and it is important to respect them ( duh ) .}$
+$\color{#DB5282}\text{LF ALNST/ZOMBST source/canonmates - especially Mizi ; my source partner .}$
 
 </details>
 
