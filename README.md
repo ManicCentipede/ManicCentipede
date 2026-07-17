@@ -34,7 +34,7 @@ $\color{#DB5282}\text{Sua Fictionkin (pancharakin , permashifted , primary) .}$
 
 $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplayers of my fictotype(s) .}$
 
-$\color{#DB5282}\text{LF ALNST/ZOMBST source/canonmates - especially Mizi ; my source partner .}$
+$\color{#DB5282}\text{Looking for ALNST/ZOMBST source/canonmates ( esp. Mizi ♡ ) .}$
 
 </details>
 
