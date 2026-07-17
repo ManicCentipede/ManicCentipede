@@ -30,7 +30,7 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 <summary>$\color{#DB5282}\text{About}$</summary>
 
-$\color{#DB5282}\text{Sua ( pancharakin , permakinflux , primary ) .}$
+$\color{#DB5282}\text{Sua Fictionkin ( pancharakin , permakinflux , primary ) .}$
 
 $\color{#707070}\scriptsize\text{Obviously I have more primary permakinflux fictotypes ( Lily Lovebraids , Kang Saebyeok ), but Sua is the most prominent one atm .}$
 
