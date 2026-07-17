@@ -6,9 +6,9 @@
 
 <summary>$\color{#DB5282}\text{Notes}$</summary>
 
-$\color{#DB5282}\text{If I'm ever unresponsive , W2I ; I'm probably off-tab or AFK .}$
+$\color{#DB5282}\text{W2I if unresposnive ; I'm probably off-tab or AFK .}$
 
-$\color{#DB5282}\text{I curate my space unapologetically and block freely for my own comfort .}$
+$\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 </details>
 
