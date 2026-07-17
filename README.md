@@ -32,7 +32,7 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 $\color{#DB5282}\text{Sua ( pancharakin , permakinflux , primary ) .}$
 
-$\color{#DB5282}\scriptsize\text{Obviously I have more primary permakinflux fictotypes ( Lily Lovebraids , Kang Saebyeok ), but Sua is the most prominent one atm .}$
+$\color{#707070}\scriptsize\text{Obviously I have more primary permakinflux fictotypes ( Lily Lovebraids , Kang Saebyeok ), but Sua is the most prominent one atm .}$
 
 $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplayers of my fictotype(s) .}$
 
