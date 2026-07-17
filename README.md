@@ -32,8 +32,6 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 $\color{#DB5282}\text{Sua Fictionkin}$ $\color{#707070}\scriptsize\text{( pancharakin , permakinflux , primary ) .}$
 
-$\color{#707070}\scriptsize\text{Obviously I have more primary permakinflux fictotypes ( Lily Lovebraids , Kang Saebyeok ), but Sua is the most prominent one atm .}$
-
 $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplayers of my fictotype(s) .}$
 
 $\color{#DB5282}\text{Looking for ALNST/ZOMBST source/canonmates ( esp. Mizi ♡ ) .}$
