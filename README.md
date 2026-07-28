@@ -34,21 +34,12 @@ $\color{#DB5282}\text{Sua Fictionkin}$ $\color{#707070}\scriptsize\text{( pancha
 
 $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplayers of my fictotype(s) .}$
 
-$\color{#DB5282}\text{Looking for ALNST/ZOMBST source/canonmates ( esp. Mizi ♡ ) .}$
+$\color{#DB5282}\text{Looking for ALNST / ZOMBST source / canonmates ( esp. Mizi ♡ ) .}$
 
 </details>
 
 </div>
 
-<details>
-
-<summary>$\color{#DB5282}\text{TRIGGER WARNINGS}$</summary>
-
-$\color{#DB5282}\text{Eye strain and low contrast text on Strawpage ! ( I think ? )}$
-
-</details>
-
-</div>
 
 
 <p align="center">
