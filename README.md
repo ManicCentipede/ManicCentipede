@@ -41,7 +41,6 @@ $\color{#DB5282}\text{Looking for ALNST / ZOMBST source / canonmates ( esp. Mizi
 </div>
 
 
-
 <p align="center">
   <a href="https://maniccentipede.atabook.org">
     <img src="https://i.ibb.co/7JQrzxzd/Atabook-pink.png" width="150" style="margin: 0 6px;" alt="Atabook">
@@ -57,7 +56,11 @@ $\color{#DB5282}\text{Looking for ALNST / ZOMBST source / canonmates ( esp. Mizi
 </p>
 
 
+<p align="center">$\color{#DB5282}\text{♡ Pony Town's Sua !! ♡}$</p> 
 
+<p align="center">
+  <a href="https://github.com/title-town">⇒</a>
+</p>
 
 
 
