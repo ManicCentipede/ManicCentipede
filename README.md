@@ -54,7 +54,17 @@ $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplay
 </p>
 
 
-<p align="center">$\color{#DB5282}\text{♡ Pony Town's Sua !! ♡}$</p> 
+<div align="center">
+
+<details>
+
+<summary>$\color{#DB5282}\text{♡ Pony Town's Sua !! ♡}$</summary>
+
+$\color{#DB5282}\text{THANK YOU TITLE TOWNNNN !!}$
+
+</details>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/title-town">⇒</a>
