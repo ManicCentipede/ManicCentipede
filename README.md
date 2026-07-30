@@ -64,8 +64,6 @@ $\color{#DB5282}\text{TYSM I DIDNT EXPECT IT AT ALL}$
 
 <p align="center">
   <a href="https://github.com/title-town">Title Town ⇒</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pt-contributers">PT Contributors ⇒</a>
 </p>
 
 </details>
