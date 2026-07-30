@@ -64,7 +64,12 @@ $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplay
   <a href="https://github.com/title-town">Title Town ⇒</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pt-contributers">PT Contributors ⇒</a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pt-hall-of-media">PT Hall of Media ⇒</a>
 </p>
+
+
+
 
 </details>
 
