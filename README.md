@@ -60,8 +60,6 @@ $\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplay
 
 <summary>$\color{#DB5282}\text{♡ Pony Town's Sua !! ♡}$</summary>
 
-$\color{#DB5282}\text{TYSM I DIDNT EXPECT IT AT ALL}$
-
 <p align="center">
   <a href="https://github.com/title-town">Title Town ⇒</a>
 </p>
