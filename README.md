@@ -22,7 +22,7 @@ $\color{#DB5282}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
   </a>
 
 
-***_<p align="center">![](https://komarev.com/ghpvc/?username=ManicCentipede&style=plastic&color=DB5282&abbreviated=true&label=❀+Clematis+gathered+❀&?format=long&?labelColor=C290F7)_***
+***_<p align="center">![](https://komarev.com/ghpvc/?username=ManicCentipede&style=plastic&color=DB5282&abbreviated=true&label=⚠+Centipedes+Collected+⚠&?format=long&?labelColor=C290F7)_***
 
 <div align="center">
 
