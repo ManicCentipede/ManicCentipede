@@ -32,7 +32,7 @@ $\color{#DB5282}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
 
 <summary>$\color{#DB5282}\text{About}$</summary>
 
-$\color{#DB5282}\text{Heyy! I'm Jane (some know me as Sae), nice to meet you! ) Make sure to check out my Strawpage for Info!}$
+$\color{#DB5282}\text{Heyy! I'm Jane (some know me as Sae or SuAe), nice to meet you! ) Make sure to check out my Strawpage for Info!}$
 
 $\color{#DB5282}\text{As a Fictionkin of quite a few characters, I'm not tolerant towards doubles.}$
 
