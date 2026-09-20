@@ -69,7 +69,7 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 
 <details>
 
-<summary>$\color{#b55151}\text{♡ Pony Town's Sua !! ♡}$</summary>
+<summary>$\color{#b55151}\text{♡ Pony Town Awards !!}$</summary>
 
 <p align="center">
   <a href="https://github.com/title-town">Title Town ⇒</a>
