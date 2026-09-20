@@ -1,4 +1,4 @@
-***<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=900&pause=950&color=B45151&center=true&vCenter=true&width=460&height=60&lines=Well+If+you're+gonna+do+your+worst;Fuck+it+I'll+get+famous+out+of+spite;I'll+make+it+overnight;Be+starring+in+the+movies;Just+to+make+you+cry;Baby+I'll+be+in+your+dreams;And+every+magazine;Go+tell+everyone+you+knew+me;They'll+say+o-m-g;Damn+you+fumbled+the+bag)](https://git.io/typing-svg)***
+***<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=900&pause=950&color=B45151&center=true&vCenter=true&width=460&height=60&lines=Well%2C+If+you're+gonna+do+your+worst;Fuck+it%2C+I'll+get+famous+out+of+spite;I'll+make+it+overnight;Be+starring+in+the+movies;Just+to+make+you+cry;Baby%2C+I'll+be+in+your+dreams;And+every+magazine;Go+tell+everyone+you+knew+me;They'll+say+o-m-g;Damn%2C+you+fumbled+the+bag)](https://git.io/typing-svg)***
 
 <div align="center">
 
