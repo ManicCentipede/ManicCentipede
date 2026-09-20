@@ -51,7 +51,7 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 
 
 <p align="center">
-  <a href="https://maniccentipede.atabook.org//">
+  <a href="https://maniccentipede.atabook.org/">
     <img src="https://cdn.discordapp.com/attachments/1498782598128996556/1551222862910857256/atabook.png?ex=6ab1305e&is=6aafdede&hm=c5fb6661b600e89ba7e71b35b45b93c45c586dd3d397cf95913636eea2f774a3&" width="150" style="margin: 0 6px;" alt="Atabook">
   </a>
 
