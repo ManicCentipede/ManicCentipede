@@ -8,9 +8,8 @@
 
 $\color{#DB5282}\text{GH used for PonyTown}$
 
-$\color{#DB5282}\text{W2I if unresponsive ; I'm probably off-tab or AFK .}$
+$\color{#DB5282}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
 
-$\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 
 </details>
@@ -33,9 +32,11 @@ $\color{#DB5282}\text{I block freely and curate my space however I see fit .}$
 
 <summary>$\color{#DB5282}\text{About}$</summary>
 
-$\color{#DB5282}\text{Sua Fictionkin}$ $\color{#707070}\scriptsize\text{( pancharakin , permakinflux , primary ) .}$
+$\color{#DB5282}\text{Heyy! I'm Jane (some know me as Sae), nice to meet you! ) Make sure to check out my Strawpage for Info!}$
 
-$\color{#DB5282}\text{Doubles strictly DNI , I'm also uncomfortable with cosplayers of my fictotype(s) .}$
+$\color{#DB5282}\text{As a Fictionkin of quite a few characters, I'm not tolerant towards doubles.}$
+
+$\color{#DB5282}\text{I block freely and curate my space however I see fit.}$
 
 </details>
 
