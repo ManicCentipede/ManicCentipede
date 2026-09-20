@@ -18,7 +18,7 @@ $\color{#DB5282}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
 
 <p align="center">
   <a href="https://www.tumblr.com/jiraitouya">
-    <img src="https://i.ibb.co/ch92vwHp/image-2026-07-14-184056960.png"/>
+    <img src="https://cdn.discordapp.com/attachments/1498782598128996556/1551209064502141048/Jane_and_Mary_Art_ManicCentipede_Chibis_V2_PNG_V21.png?ex=6ab12385&is=6aafd205&hm=55c1575eb019eb0596b8937e3e2400d8fa81163fcb32152c0c07b19473bb2b4c&"/>
   </a>
 
 
