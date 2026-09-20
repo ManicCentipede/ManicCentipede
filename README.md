@@ -59,7 +59,7 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
     <img src="https://media.discordapp.net/attachments/1498782598128996556/1551222863472627802/strawpage.png?ex=6ab1305e&is=6aafdede&hm=50a75e51d96f36d1745bb7f2a6659df7c58c4e47017a7b81c0eb25ea30ad6b6e&=&format=webp&quality=lossless" width="150" style="margin: 0 6px;" alt="Strawpage">
   </a>
 
-  <a href="https://guns.lol/maniccentipede">
+  <a href="https://maniccentipede.atabook.org/">
     <img src="https://media.discordapp.net/attachments/1498782598128996556/1551222863980273705/guns.png?ex=6ab1305f&is=6aafdedf&hm=c298b10db9420ef0807262ce1e8bfe6d723c2d5ac998ef124819bc604d78174b&=&format=webp&quality=lossless" width="150" style="margin: 0 6px;" alt="guns.lol">
   </a>
 </p>
