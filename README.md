@@ -50,19 +50,9 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 </div>
 
 
-<p align="center">
-  <a href="https://maniccentipede.atabook.org/">
-    <img src="https://cdn.discordapp.com/attachments/1498782598128996556/1551222862910857256/atabook.png?ex=6ab1305e&is=6aafdede&hm=c5fb6661b600e89ba7e71b35b45b93c45c586dd3d397cf95913636eea2f774a3&" width="150" style="margin: 0 6px;" alt="Atabook">
-  </a>
-
-  <a href="https://jane-the-killer.straw.page/">
-    <img src="https://media.discordapp.net/attachments/1498782598128996556/1551222863472627802/strawpage.png?ex=6ab1305e&is=6aafdede&hm=50a75e51d96f36d1745bb7f2a6659df7c58c4e47017a7b81c0eb25ea30ad6b6e&=&format=webp&quality=lossless" width="150" style="margin: 0 6px;" alt="Strawpage">
-  </a>
-
-  <a href="https://maniccentipede.atabook.org/">
-    <img src="https://media.discordapp.net/attachments/1498782598128996556/1551222863980273705/guns.png?ex=6ab1305f&is=6aafdedf&hm=c298b10db9420ef0807262ce1e8bfe6d723c2d5ac998ef124819bc604d78174b&=&format=webp&quality=lossless" width="150" style="margin: 0 6px;" alt="guns.lol">
-  </a>
-</p>
+***<p align="center">[![*GUNS](https://img.shields.io/badge/*GUNS.LOL-b55151?style=for-the-badge)](https://guns.lol/janethekiller)
+[![*STRAW](https://img.shields.io/badge/*STRAWPAGE-b55151?style=for-the-badge)](https://jane-the-killer.straw.page/)
+[![*ATA](https://img.shields.io/badge/*ATABOOK-b55151?style=for-the-badge)](https://maniccentipede.atabook.org)***
 
 
 <div align="center">
