@@ -1,4 +1,4 @@
-***<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1400&color=B45151&center=true&vCenter=true&width=435&lines=Ring+the+bells!;Let+go+and+let+God!;You+can't+save+me.;Bless+your+heart~)](https://git.io/typing-svg)***
+***<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=400&color=B45151&center=true&multiline=true&repeat=false&width=530&height=60&lines=I+don't+care+If+I+die.;But+I'll+be+sure+to+take+you+down+with+me.)](https://git.io/typing-svg)***
 
 <div align="center">
 
@@ -18,7 +18,7 @@ $\color{#b55151}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
 
 <p align="center">
   <a href="https://www.tumblr.com/maniccentipede">
-    <img src="https://cdn.discordapp.com/attachments/1498782598128996556/1551218981505990808/Jane_and_Mary_Art_ManicCentipede_Chibis_V2_PNG_V2.png?ex=6abfad41&is=6abe5bc1&hm=51bde125bd505223b799d3e463c577f029f0aa54fcd5d2af0984d69057c91f63&"/>
+    <img src="https://cdn.discordapp.com/attachments/1498782598128996556/1557755416358949016/janina_chibis_ManicCentipede_PNG11.png?ex=6ac8f448&is=6ac7a2c8&hm=3197a6b0f5b0ba7ff21a7c8af99a6a6a51b80d2b313b18c5c2c75b354d72027f&"/>
   </a>
 
 <div align="center">
