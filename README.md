@@ -57,24 +57,6 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 
 <div align="center">
 
-<details>
-
-<summary>$\color{#b55151}\text{♡ Pony Town Awards !!}$</summary>
-
-<p align="center">
-  <a href="https://github.com/title-town">Title Town ⇒</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pt-contributers">PT Contributors ⇒</a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pt-hall-of-media">PT Hall of Media ⇒</a>
-</p>
-
-
-
-
-</details>
-
-</div>
 
 </div>
 
