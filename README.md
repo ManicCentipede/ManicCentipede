@@ -11,7 +11,6 @@ $\color{#b55151}\text{GH used for PonyTown}$
 $\color{#b55151}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
 
 
-
 </details>
 
 </div>
