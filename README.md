@@ -34,8 +34,7 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 </div>
 
 
-***<p align="center">[![*GUNS](https://img.shields.io/badge/*GUNS-b55151?style=for-the-badge)](https://guns.lol/maniccentipede)
-[![*STRAW](https://img.shields.io/badge/*STRAWPAGE-b55151?style=for-the-badge)](https://jane-the-killer.straw.page/)
+***<p align="center">[![*STRAW](https://img.shields.io/badge/*STRAWPAGE-b55151?style=for-the-badge)](https://straw.page/draw)
 [![*ATA](https://img.shields.io/badge/*ATABOOK-b55151?style=for-the-badge)](https://maniccentipede.atabook.org)
 [![*KURO](https://img.shields.io/badge/*KURO-b55151?style=for-the-badge)](https://kuro.rip/maniccentipede)***
 
