@@ -23,7 +23,7 @@ $\color{#b55151}\text{W2I if unresponsive; I'm probably off-tab or AFK.}$
 
 <summary>$\color{#b55151}\text{About}$</summary>
 
-$\color{#b55151}\text{Heyy! I'm Centi (/Jane/Nina), nice to meet you! ) Make sure to check out my Strawpage/Kuro for Info!}$
+$\color{#b55151}\text{Heyy! I'm Centi (/Jane/Nina), nice to meet you! ) Make sure to check out my Strawpage for Info!}$
 
 $\color{#b55151}\text{As a Fictionkin of quite a few characters, I'm not tolerant towards doubles.}$
 
@@ -35,7 +35,6 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 
 
 ***<p align="center">[![*ATA](https://img.shields.io/badge/*ATABOOK-b55151?style=for-the-badge)](https://maniccentipede.atabook.org)
-[![*KURO](https://img.shields.io/badge/*KURO-b55151?style=for-the-badge)](https://kuro.rip/maniccentipede)
 [![*STRAW](https://img.shields.io/badge/*STRAWPAGE-b55151?style=for-the-badge)](https://maniccentipede.straw.page/)***
 <div align="center">
 
