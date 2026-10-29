@@ -33,10 +33,10 @@ $\color{#b55151}\text{I block freely and curate my space however I see fit.}$
 
 </div>
 
-
-***<p align="center">[![*ATA](https://img.shields.io/badge/*ATABOOK-b55151?style=for-the-badge)](https://maniccentipede.atabook.org)
-[![*STRAW](https://img.shields.io/badge/*STRAWPAGE-b55151?style=for-the-badge)](https://maniccentipede.straw.page/)***
-<div align="center">
+<p align="center">
+  <a href="https://maniccentipede.straw.page"><img src="https://i.ibb.co/Pv3dNHwf/strawpage-1.png" alt="Strawpage"></a>
+  <a href="https://maniccentipede.atabook.org/"><img src="https://i.ibb.co/Wpv7vF9n/atabook.png" alt="Atabook"></a>
+</p>
 
 
 <div align="center">
